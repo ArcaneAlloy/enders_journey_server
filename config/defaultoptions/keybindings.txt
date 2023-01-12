@@ -45,7 +45,7 @@ key_Toggle Drippy Customization Overlay | CTRL + ALT + :key.keyboard.l:NONE
 key_Reload Menu | CTRL + ALT + :key.keyboard.r:NONE
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c:NONE
 key_key.charm.openCraftingTable:key.keyboard.v:NONE
-key_key.charm.openEnderChest:key.keyboard.b:NONE
+key_key.charm.openEnderChest:key.keyboard.n:NONE
 key_key.itemzoom.toggle:key.keyboard.z:SHIFT
 key_key.itemzoom.hold:key.keyboard.unknown:NONE
 key_key.itemzoom.zoom.in:key.keyboard.unknown:NONE
