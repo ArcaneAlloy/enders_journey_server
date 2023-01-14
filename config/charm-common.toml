@@ -386,7 +386,7 @@
 
 [VariantChests]
 	#This module is automatically disabled if Quark is present. Set true to force enable.
-	Override = true
+	Override = false
 
 [VariantLadders]
 	#This module is automatically disabled if Quark is present. Set true to force enable.
