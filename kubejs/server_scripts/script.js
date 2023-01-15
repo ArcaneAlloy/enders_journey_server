@@ -76,8 +76,20 @@ onEvent('recipes', event => {
 			S: 'minecraft:string'
 		  })
 
+		// Add craft for the Ignitium Block
+		event.shaped('1x cataclysm:ignitium_block', [
+			'III',
+			'III',
+			'III'
+		  ], {
+			I: 'cataclysm:ignitium_ingot'
+		  })
+
+		// Add craft for the Ignitium Ingot from Ignitium Block
+		event.shapeless(Item.of('9x cataclysm:ignitium_ingot'), ['cataclysm:ignitium_block'])
+
 		// Add craft for the Bulwark Of the Flame (Shield)
-		  event.shaped('1x cataclysm:bulwark_of_the_flame', [
+		event.shaped('1x cataclysm:bulwark_of_the_flame', [
 			'NIN',
 			'BSB',
 			'NNN'
