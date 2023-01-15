@@ -76,6 +76,11 @@ onEvent('recipes', event => {
 			S: 'minecraft:string'
 		  })
 
+		// Add craft for the Final Fractal
+		event.smithing('cataclysm:final_fractal', 'endrem:end_crystal_sword', 'alexsmobs:soul_heart')
+
+		// Add craft for the Zweiender
+		event.smithing('cataclysm:zweiender', 'cataclysm:final_fractal', 'minecraft:dragon_egg')
 
 		// Remove Waystones Crafts
 		event.remove({output: 'waystones:return_scroll'})
