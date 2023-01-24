@@ -103,7 +103,6 @@ litewolfcore-1.16.5v1.0.1.jar
 Mantle-1.16.5-1.6.157.jar
 meetyourfight-1.16.5-1.2.0.jar
 mgui-1.16.5-3.3.0.jar
-modernworldcreation_1.0.0_MC_1.16.2-1.16.5.jar
 modnametooltip_1.16.2-1.15.0.jar
 MouseTweaks-2.14-mc1.16.2.jar
 NaturesCompass-1.16.5-1.9.1-forge.jar
