@@ -42,6 +42,7 @@ configured-1.5.3-1.16.5.jar
 Controlling-7.0.0.28.jar
 cookielicious-1.16.5-1.4.3.jar
 CosmeticArmorReworked-1.16.5-v5.jar
+CooperativeAdvancements-1.16.5-forge-1.3.0.jar
 crumbs-forge-1.0.7.jar
 CTM-MC1.16.1-1.1.2.6.jar
 curios-forge-1.16.5-4.0.5.3.jar
@@ -80,6 +81,7 @@ guardvillagers-1.16.5.1.2.6.jar
 hats
 Hats-1.16.5-10.3.3.jar
 Highlighter-1.16.5-1.1.1.jar
+Iceberg-1.16.5-1.0.45.jar
 iChunUtil-1.16.5-10.6.1.jar
 illagers_plus-1.16.5v1.0.2.jar
 infernal-expansion-1.16.5-2.5.0.jar
