@@ -144,6 +144,7 @@ supplementaries-1.16.5-0.18.4b.jar
 swingthroughgrass-1.16.4-1.5.3.jar
 TinySkeletons-v1.0.1-1.16.5-Forge.jar
 upgrade_aquatic-1.16.5-3.1.2.jar
+upsizer-mc1.16.4-6.1.1
 upstream-1.0.jar
 VisualWorkbench-v1.1.0-1.16.5.jar
 voidtotem-1.16.5-1.4.0.jar
