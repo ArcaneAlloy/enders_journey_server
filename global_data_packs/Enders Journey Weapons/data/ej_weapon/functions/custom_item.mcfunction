@@ -1,3 +1,5 @@
+execute as @s[scores={use_bow=1..}] run function ej_weapon:powers/half_damage
+
 execute as @s[nbt={SelectedItem:{tag:{custom_crossbow:1}}}] anchored eyes positioned ^ ^ ^.1 run function ej_weapon:powers/crossbows/spider_crossbow
 execute as @s[nbt={SelectedItem:{tag:{custom_crossbow:4}}}] anchored eyes positioned ^ ^ ^.1 run function ej_weapon:powers/crossbows/zerogravity_crossbow
 execute as @s[nbt={SelectedItem:{tag:{custom_crossbow:5}}}] anchored eyes positioned ^ ^ ^.1 run function ej_weapon:powers/crossbows/pyron_crossbow
