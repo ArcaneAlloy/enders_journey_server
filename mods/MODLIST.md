@@ -66,7 +66,6 @@ Hats-1.16.5-10.3.4.jar
 Iceberg-1.16.5-1.0.45.jar
 iChunUtil-1.16.5-10.7.0.jar
 illagers_plus-1.16.5v1.0.2.jar
-incontrol-1.16-5.2.12.jar
 infernal-expansion-1.16.5-2.5.0.jar
 Inspirations-1.16.5-1.2.3.38.jar
 ironchest-1.16.5-11.2.21.jar
