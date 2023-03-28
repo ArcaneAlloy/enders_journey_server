@@ -46,6 +46,7 @@ differentiate-1.16.5-0.5.3.jar
 dragonfight-1.8.jar
 dungeons_enhanced-1.16.5-1.8.2.jar
 dungeons_plus-1.16.5-1.1.5.jar
+dynamiclightsreforged-mc1.16.5_v1.0.1
 endergetic-1.16.5-3.0.2.jar
 endrem-5.0.3-R-1.16.5.jar
 Enhanced-Mushrooms-1.16.5-3.0.9.jar
