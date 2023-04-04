@@ -51,6 +51,7 @@ endergetic-1.16.5-3.0.2.jar
 endrem-5.0.3-R-1.16.5.jar
 Enhanced-Mushrooms-1.16.5-3.0.9.jar
 environmental-1.16.5-1.1.1.jar
+ExplorersCompass-1.16.5-1.1.2-forge.jar
 ExtraArmor+1.16.5+-+1.12.2.jar
 FastFurnace-1.16.5-4.5.0.jar
 FastWorkbench-1.16.5-4.6.2.jar
