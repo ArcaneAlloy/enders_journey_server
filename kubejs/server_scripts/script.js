@@ -150,6 +150,9 @@ onEvent('recipes', event => {
 
 		// Craft for Dirty Glass
 		event.shapeless(Item.of('quark:dirty_glass'), ['quark:dirty_shard', 'quark:dirty_shard', 'quark:dirty_shard', 'quark:dirty_shard'])
+		
+		// Remove Blindishgt Tongue Whip recipe because a bug in Servers https://github.com/infernalstudios/Infernal-Expansion/issues/393
+		event.remove({output: 'infernalexp:blindsight_tongue_whip'})
 })
 
 onEvent('item.tags', event => {
