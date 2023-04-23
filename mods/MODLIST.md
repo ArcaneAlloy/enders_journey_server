@@ -84,6 +84,7 @@ kubejs-forge-1605.3.19-build.299.jar
 lazydfu-0.1.3.jar
 leap-1.16.4-1.1.1.jar
 lepton-1.16.5-1.3.2.jar
+lightspeed-1.16.5-1.0.3.jar
 litewolfcore-1.16.5v1.0.1.jar
 Mantle-1.16.5-1.6.157.jar
 meetyourfight-1.16.5-1.2.0.jar
