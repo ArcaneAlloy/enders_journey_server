@@ -166,6 +166,9 @@ onEvent('recipes', event => {
 		
 		// Remove Blindsight Tongue Whip recipe because a bug in Servers https://github.com/infernalstudios/Infernal-Expansion/issues/393
 		event.remove({output: 'infernalexp:blindsight_tongue_whip'})
+		
+		// Add craft to create Slime Balls from Snail Slime
+		event.shapeless(Item.of('minecraft:slime_ball'), ['autumnity:snail_slime', 'minecraft:lime_dye'])		
 })
 
 onEvent('item.tags', event => {
@@ -205,7 +208,6 @@ onEvent('item.tags', event => {
 
 		// Remove Dirty Glass Shard from Shards tag
 		event.remove('quark:shards', 'quark:dirty_shard')
-		
 })
 
 onEvent('minecraft:end_dragon', event => {
@@ -214,8 +216,8 @@ onEvent('minecraft:end_dragon', event => {
 
   // Iterate through all loaded entities
   world.getAllEntities().forEach(entity => {
-    // Remove endermen and blaze mobs
-    if (entity.getType().getId() === 'minecraft:enderman' || entity.getType().getId() === 'outvoted:wildfire' || entity.getType().getId() === 'alexsmobs:soul_vulture') {
+    // Remove Blazes, Wildfires and Endermaptera mobs
+    if (entity.getType().getId() === 'cataclysm:endermaptera' || entity.getType().getId() === 'outvoted:wildfire' || entity.getType().getId() === 'minecraft:blaze') {
       entity.kill();
     }
   });
