@@ -2,13 +2,13 @@ abnormals_core-1.16.5-3.3.1.jar
 AI-Improvements-1.16.5-0.5.0.jar
 alexsmobs-1.12.1.jar
 appleskin-forge-mc1.16.x-2.4.0.jar
-architectury-1.32.66.jar
+architectury-1.32.68.jar
 atmospheric-1.16.5-3.1.1.jar
 AttributeFix-1.16.5-10.1.4.jar
 AutoRegLib-1.6-49.jar
 autumnity-1.16.5-2.1.2.jar
 Babel-1.0.5.jar
-backpacked-2.1.8-1.16.5.jar
+backpacked-2.1.12-1.16.5.jar
 bamboo_blocks-1.16.5-3.0.1.jar
 Bayou-Blues-1.16.5-1.0.5.jar
 berry_good-1.16.5-4.1.2.jar
@@ -20,7 +20,7 @@ BetterMineshafts-Forge-1.16.4-2.0.4.jar
 BetterShieldsMC1.16.3-1.2.1.jar
 Bookshelf-Forge-1.16.5-10.4.33.jar
 buzzier_bees-1.16.5-3.0.3.jar
-carryon-1.16.5-1.15.5.22.jar
+carryon-1.16.5-1.15.5.24.jar
 castle_in_the_sky-1.16.5-0.2.6.jar
 Cataclysm-0.48.jar
 charm-forge-1.16.5-2.3.2.jar
@@ -61,7 +61,7 @@ forgery-1.16-1.4.0_01.jar
 Fruitful-1.16.5-2.1.0.jar
 ftb-backups-2.1.2.2.jar
 geckolib-forge-1.16.5-3.0.97.jar
-globaldataandresourcepacks-1.16.5-1.10.2.jar
+globaldataandresourcepacks-1.16.5-1.10.3.jar
 Goblins_Dungeons_1.0.6-1.16.jar
 guardvillagers-1.16.5.1.2.6.jar
 Hats-1.16.5-10.3.4.jar
@@ -92,7 +92,7 @@ memoryleakfix-forge-pre1.17-1.0.0.jar
 memorysweep-1.16.5-0.8.jar
 mgui-1.16.5-3.3.0.jar
 mobifier-1.1.4.jar
-modernfix-mc1.16.5-1.12.2.jar
+modernfix-mc1.16.5-1.14.2.jar
 NaturesCompass-1.16.5-1.9.1-forge.jar
 neapolitan-1.16.5-2.2.1.jar
 NetherPortalFix_1.16.3-7.2.1.jar
@@ -101,7 +101,7 @@ outvoted-1.16.5-1.2.4.jar
 paintings-1.16.4-7.0.0.1.jar
 Patchouli-1.16.4-53.3.jar
 personality-1.16.5-1.0.3.jar
-Placebo-1.16.5-4.7.0.jar
+Placebo-1.16.5-4.7.1.jar
 PuzzlesLib-v1.0.15-1.16.5-Forge.jar
 Quark-r2.4-322.jar
 QuarkOddities-1.16.3.jar
@@ -131,8 +131,8 @@ VTweaks-1.16.4-3.6.2.jar
 w2w-1.16.1-0.0.5.2.jar
 Waystones_1.16.5-7.6.4.jar
 windowlogging-mc1.16.5_v0.0.5.jar
-XaerosWorldMap_1.29.4_Forge_1.16.5.jar
-Xaeros_Minimap_22.3.2_Forge_1.16.5.jar
+Xaeros_Minimap_23.4.1_Forge_1.16.5.jar
+XaerosWorldMap_1.30.1_Forge_1.16.5.jar
 xlpackets-1.16.4-1.2.jar
 YungsApi-1.16.4-Forge-13.jar
 YungsBridges-Forge-1.16.4-1.0.1.jar
