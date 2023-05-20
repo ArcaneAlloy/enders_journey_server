@@ -92,7 +92,7 @@ memoryleakfix-forge-pre1.17-1.0.0.jar
 memorysweep-1.16.5-0.8.jar
 mgui-1.16.5-3.3.0.jar
 mobifier-1.1.4.jar
-modernfix-mc1.16.5-1.14.2.jar
+modernfix-mc1.16.5-1.15.0.jar
 NaturesCompass-1.16.5-1.9.1-forge.jar
 neapolitan-1.16.5-2.2.1.jar
 NetherPortalFix_1.16.3-7.2.1.jar
@@ -131,8 +131,8 @@ VTweaks-1.16.4-3.6.2.jar
 w2w-1.16.1-0.0.5.2.jar
 Waystones_1.16.5-7.6.4.jar
 windowlogging-mc1.16.5_v0.0.5.jar
-Xaeros_Minimap_23.4.1_Forge_1.16.5.jar
-XaerosWorldMap_1.30.1_Forge_1.16.5.jar
+Xaeros_Minimap_23.4.3_Forge_1.16.5.jar
+XaerosWorldMap_1.30.2_Forge_1.16.5.jar
 xlpackets-1.16.4-1.2.jar
 YungsApi-1.16.4-Forge-13.jar
 YungsBridges-Forge-1.16.4-1.0.1.jar
