@@ -89,7 +89,6 @@ litewolfcore-1.16.5v1.0.1.jar
 Mantle-1.16.5-1.6.157.jar
 meetyourfight-1.16.5-1.2.0.jar
 memoryleakfix-forge-pre1.17-1.0.0.jar
-memorysweep-1.16.5-0.8.jar
 mgui-1.16.5-3.3.0.jar
 mobifier-1.1.4.jar
 modernfix-mc1.16.5-1.15.0.jar
